@@ -1,0 +1,3 @@
+clumsy-bird|Clumsy Bird
+html5-doodle-jump|Doodle Jump
+pacman|Pacman

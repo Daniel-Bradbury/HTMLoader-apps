@@ -1,0 +1,5 @@
+https://github.com/gabrielecirulli/2048.git
+https://github.com/florisluiten/0hh1.git
+https://github.com/ellisonleao/clumsy-bird.git
+https://github.com/ntcnet83/html5-doodle-jump.git
+https://github.com/daleharvey/pacman.git
